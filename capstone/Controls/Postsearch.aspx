@@ -5,7 +5,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <center>
     &nbsp;&nbsp;&nbsp; 
-    First Name: <asp:TextBox ID="txtTname" runat="server" />
+    Post Name: <asp:TextBox ID="txtTname" runat="server" />
     &nbsp;&nbsp;&nbsp;
     <asp:Button runat="server" ID="btnSearch" Text="Search" 
         onclick="btnSearch_Click" />
